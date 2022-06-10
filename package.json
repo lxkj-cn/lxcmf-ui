@@ -1,0 +1,41 @@
+{
+    "name": "lx_vue_admin",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "serve": "vue-cli-service serve --open",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint"
+    },
+    "dependencies": {
+        "@element-plus/icons-vue": "^1.1.4",
+        "@wangeditor/editor": "^5.0.1",
+        "@wangeditor/editor-for-vue": "^5.1.10",
+        "axios": "^0.26.1",
+        "core-js": "^3.21.1",
+        "echarts": "^5.3.2",
+        "element-plus": "^2.1.9",
+        "vue": "^3.2.31",
+        "vue-particles": "^1.0.9",
+        "vue-router": "^4.0.14",
+        "vuex": "^4.0.2"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-babel": "~4.5.17",
+        "@vue/cli-plugin-eslint": "~4.5.17",
+        "@vue/cli-plugin-router": "~4.5.17",
+        "@vue/cli-plugin-vuex": "~4.5.17",
+        "@vue/cli-service": "~4.5.17",
+        "@vue/compiler-sfc": "^3.2.31",
+        "@vue/eslint-config-standard": "^5.1.2",
+        "babel-eslint": "^10.1.0",
+        "eslint": "7.32.0",
+        "eslint-plugin-import": "^2.26.0",
+        "eslint-plugin-node": "^11.1.0",
+        "eslint-plugin-promise": "^4.3.1",
+        "eslint-plugin-standard": "^4.1.0",
+        "eslint-plugin-vue": "8.4.0",
+        "sass": "^1.50.0",
+        "sass-loader": "^8.0.2"
+    }
+}
